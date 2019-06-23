@@ -25,7 +25,7 @@ Step 3   ===> i < n -1
          i =2, j=0, j < n - i -1     1 2 4 5 8  swap if elem(j) > elem (j+1)
          i =2, j=1, j < n - i -1     1 2 4 5 8  swap if elem(j) > elem (j+1)
 
-Step 3   ===> i < n -1
+Step 4   ===> i < n -1
          i =3, j=0, j < n - i -1     1 2 4 5 8  swap if elem(j) > elem (j+1)
 
 ```
