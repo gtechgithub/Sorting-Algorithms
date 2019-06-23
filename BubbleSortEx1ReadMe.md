@@ -2,7 +2,7 @@
 
   Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.
 
-let say input elements were 5 1 4 2 8
+let say input elements were 5 1 4 2 8 
 
 where n is the number of elements which is 5.
 
